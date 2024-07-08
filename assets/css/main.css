@@ -1289,7 +1289,7 @@ button {
 #bg:before {
 	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)),url('../../images/bg-profile.jpeg'); 
 	background-size: cover;
-	background-position: center;
+	background-position: 75%;
 	background-repeat: no-repeat;
 	z-index: 2;
 	/* Include transitions and transition delays as needed */
