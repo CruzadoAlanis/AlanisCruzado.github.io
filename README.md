@@ -14,7 +14,7 @@
 📝 Here's my [resume](https://www.linkedin.com/in/alanis-cruzado/overlay/1719610618366/single-media-viewer/?profileId=ACoAADf8YsABE1cZx3qB4wEg3drsWO28ZLh2xug)
 
 👨‍💻 My projects are available [Here](https://cruzadoalanis.github.io/AlanisCruzado.github.io/#)
-👨‍💻 My projects are available <a href="https://cruzadoalanis.github.io/AlanisCruzado.github.io/#" target="_blank">[Here]</a>
+👨‍💻 My projects are available [[Here]](https://cruzadoalanis.github.io/AlanisCruzado.github.io/#)
 
 
 ✉️ [Cruzado.Alanis@gmail.com](mailto:Cruzado.Alanis@gmail.com) 
