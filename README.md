@@ -9,11 +9,11 @@
 
 🔭 I’m currently working on multiple analytic projects for my portfolio
 
-🌱 I’m currently learning **SQL, Google analytics, Python, R and more.**
+🌱 I’m currently learning **SQL, Tableau, Excel, Google Analytics, Python, R and more.**
 
 📝 Here's my [resume](https://www.linkedin.com/in/alanis-cruzado/overlay/1719610618366/single-media-viewer/?profileId=ACoAADf8YsABE1cZx3qB4wEg3drsWO28ZLh2xug)
 
-👨‍💻 My projects are available [Here]([https://cruzadoalanis.github.io/AlanisCruzado.github.io/](https://cruzadoalanis.github.io/AlanisCruzado.github.io/))
+👨‍💻 My projects are available [Here](https://cruzadoalanis.github.io/AlanisCruzado.github.io/#)
 
 ✉️ [Cruzado.Alanis@gmail.com](mailto:Cruzado.Alanis@gmail.com) 
 
